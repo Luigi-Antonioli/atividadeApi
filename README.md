@@ -114,7 +114,7 @@ http://localhost:8080/jogos/1
   "nome": "PEAK",
   "tipo": "Exploração",
   "nota": 10,
-  "review": "Obra prima, um jogo com um desafio que "frita" a mente."
+  "review": "Obra prima, um jogo com um desafio que faz desafiar a mente."
 }
 ```
 

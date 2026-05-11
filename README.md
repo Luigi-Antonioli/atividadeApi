@@ -1,6 +1,6 @@
 # API CRUD - Biblioteca de Jogos
 
-API REST desenvolvida em Java com Spring Boot para gerenciamento de jogos e avaliações.
+API REST desenvolvida em Java com Spring Boot para gerenciamento de jogos.
 
 A API possui:
 
@@ -52,10 +52,10 @@ http://localhost:8080/jogos
 
 ```json
 {
-  "nome": "Elden Ring",
-  "tipo": "RPG",
+  "nome": "Sons Of The Forest",
+  "tipo": "Aventura",
   "nota": 9,
-  "review": "Muito bom"
+  "review": "Muito bom, um jogo com um mapa muito amplo e com vários desafios."
 }
 ```
 
@@ -111,10 +111,10 @@ http://localhost:8080/jogos/1
 
 ```json
 {
-  "nome": "Elden Ring",
-  "tipo": "RPG",
+  "nome": "PEAK",
+  "tipo": "Exploração",
   "nota": 10,
-  "review": "Obra prima"
+  "review": "Obra prima, um jogo com um desafio que "frita" a mente."
 }
 ```
 

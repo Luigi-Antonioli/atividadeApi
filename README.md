@@ -13,6 +13,11 @@ A API possui:
 
 ---
 
+## LINK DO POSTMAN
+```text
+https://.postman.co/workspace/POSTMAN~2bf7c1d9-49b6-4a91-b37b-53c53e93c654/collection/39211426-77243550-4930-4379-8e00-eb36980dbb14?action=share&creator=39211426
+```
+
 # Testes da API no Postman
 
 ## 1. Login

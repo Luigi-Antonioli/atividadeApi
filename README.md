@@ -1,4 +1,4 @@
-# API CRUD - Biblioteca de Jogos
+# JAVA + SPRING BOOT - API - TEMA: JOGOS
 
 API REST desenvolvida em Java com Spring Boot para gerenciamento de jogos.
 
